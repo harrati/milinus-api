@@ -1,0 +1,10 @@
+{
+    "url": {
+      "api": "http://localhost:3000"
+    },
+    "release": {
+      "ios": { "bundleId": "com.totem.milinus" },
+      "android": { "packageName": "com.totem.milinus" },
+      "frontUrl": "https://milinus.netlify.app"
+    }
+  }

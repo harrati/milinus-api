@@ -1,0 +1,40 @@
+version: '3.5'
+
+services:
+  postgres:
+    container_name: ${PROJECT_NAME}-pg
+    image: postgres:10-alpine
+    environment:
+      POSTGRES_DB: ${TYPEORM_DATABASE}
+      POSTGRES_USER: ${TYPEORM_USERNAME}
+      POSTGRES_PASSWORD: ${TYPEORM_PASSWORD}
+      PGDATA: /data/postgres
+    volumes:
+       - postgres:/data/postgres
+    ports:
+      - ${TYPEORM_PORT}:5432
+    networks:
+      - network
+    restart: unless-stopped
+  postgres-test:
+    container_name: ${PROJECT_NAME}-test-pg
+    image: postgres:10-alpine
+    environment:
+      POSTGRES_DB: ${TYPEORM_DATABASE}
+      POSTGRES_USER: ${TYPEORM_USERNAME}
+      POSTGRES_PASSWORD: ${TYPEORM_PASSWORD}
+      PGDATA: /data/postgres
+    volumes:
+       - postgres-test:/data/postgres
+    ports:
+      - ${TYPEORM_PORT_TEST}:5432
+    networks:
+      - network
+    restart: unless-stopped
+networks:
+  network:
+    driver: bridge
+
+volumes:
+    postgres:
+    postgres-test:

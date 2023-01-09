@@ -1,0 +1,43 @@
+image: node:10-alpine
+
+stages:
+  - deploy
+
+deploy-testing:
+  stage: deploy
+  before_script:
+    - 'which ssh-agent || ( apk add --update openssh )'
+    - apk add --update bash
+    - apk add --update git
+    - eval $(ssh-agent -s)
+    - echo "$SSH_PRIVATE_KEY" | ssh-add -
+    - mkdir -p ~/.ssh
+    - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
+    - npm config set unsafe-perm true
+    - npm install pm2 -g --silent
+  script:
+    - pm2 deploy testing
+  tags: 
+    - testing
+  only:
+    - testing
+
+deploy-staging:
+  stage: deploy
+  before_script:
+    - 'which ssh-agent || ( apk add --update openssh )'
+    - apk add --update bash
+    - apk add --update git
+    - eval $(ssh-agent -s)
+    - echo "$SSH_PRIVATE_KEY" | ssh-add -
+    - mkdir -p ~/.ssh
+    - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
+    - npm config set unsafe-perm true
+    - npm install pm2 -g --silent
+
+  script:
+    - pm2 deploy staging
+  tags: 
+    - staging
+  only:
+    - staging

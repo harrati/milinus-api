@@ -1,0 +1,2570 @@
+[
+  {
+    "secretId": 1,
+    "name": "DEBUTANT CARDIO",
+    "nameEn": "BEGINNER CARDIO",
+    "description": "Remettez-vous au sport avec le programme \"Débutant cardio\". Ce programme au poids de corps sera votre meilleur allié pour une reprise du sport en douceur. Des exercices faciles et simples d'exécutions pour des résultats garantis. À vous de jouer !",
+    "descriptionEn": "Get back into the gym with the \"Beginner Cardio\" program. This body weight program will be your best ally for a smooth return to sport. Easy and simple exercises for guaranteed results. It's up to you!",
+    "pictureUrl": "https://firebasestorage.googleapis.com/v0/b/milinus.appspot.com/o/program%2F1.png?alt=media",
+    "status": "ACTIVE",
+    "gender": "NON_BINARY",
+    "objective": "STAY_INSHAPE",
+    "runningCapacity": "CANT_RUN",
+    "difficulty": "NOOB",
+    "offer": "PREMIUM",
+    "trainings": [
+      {
+        "id": 1,
+        "name": "JOUR 1",
+        "position": 1,
+        "type": "FITNESS"
+      },
+      {
+        "id": 2,
+        "name": "JOUR 2",
+        "position": 2,
+        "type": "FITNESS"
+      },
+      {
+        "id": 3,
+        "name": "JOUR 3",
+        "position": 3,
+        "type": "FITNESS"
+      },
+      {
+        "id": 4,
+        "name": "JOUR 4",
+        "position": 4,
+        "type": "FITNESS"
+      },
+      {
+        "id": 5,
+        "name": "JOUR 5",
+        "position": 5,
+        "type": "FITNESS"
+      },
+      {
+        "id": 6,
+        "name": "JOUR 6",
+        "position": 6,
+        "type": "FITNESS"
+      },
+      {
+        "id": 7,
+        "name": "JOUR 7",
+        "position": 7,
+        "type": "FITNESS"
+      },
+      {
+        "id": 8,
+        "name": "JOUR 8",
+        "position": 8,
+        "type": "FITNESS"
+      },
+      {
+        "id": 9,
+        "name": "JOUR 9",
+        "position": 9,
+        "type": "FITNESS"
+      },
+      {
+        "id": 10,
+        "name": "JOUR 10",
+        "position": 10,
+        "type": "FITNESS"
+      },
+      {
+        "id": 11,
+        "name": "JOUR 11",
+        "position": 11,
+        "type": "FITNESS"
+      },
+      {
+        "id": 12,
+        "name": "JOUR 12",
+        "position": 12,
+        "type": "FITNESS"
+      },
+      {
+        "id": 13,
+        "name": "JOUR 13",
+        "position": 13,
+        "type": "FITNESS"
+      },
+      {
+        "id": 14,
+        "name": "JOUR 14",
+        "position": 14,
+        "type": "FITNESS"
+      },
+      {
+        "id": 15,
+        "name": "JOUR 15",
+        "position": 15,
+        "type": "FITNESS"
+      },
+      {
+        "id": 16,
+        "name": "JOUR 16",
+        "position": 16,
+        "type": "FITNESS"
+      },
+      {
+        "id": 17,
+        "name": "JOUR 17",
+        "position": 17,
+        "type": "FITNESS"
+      },
+      {
+        "id": 18,
+        "name": "JOUR 18",
+        "position": 18,
+        "type": "FITNESS"
+      },
+      {
+        "id": 19,
+        "name": "JOUR 19",
+        "position": 19,
+        "type": "FITNESS"
+      },
+      {
+        "id": 20,
+        "name": "JOUR 20",
+        "position": 20,
+        "type": "FITNESS"
+      },
+      {
+        "id": 21,
+        "name": "JOUR 21",
+        "position": 21,
+        "type": "FITNESS"
+      },
+      {
+        "id": 22,
+        "name": "JOUR 22",
+        "position": 22,
+        "type": "FITNESS"
+      },
+      {
+        "id": 23,
+        "name": "JOUR 23",
+        "position": 23,
+        "type": "FITNESS"
+      },
+      {
+        "id": 24,
+        "name": "JOUR 24",
+        "position": 24,
+        "type": "FITNESS"
+      },
+      {
+        "id": 25,
+        "name": "JOUR 25",
+        "position": 25,
+        "type": "FITNESS"
+      },
+      {
+        "id": 26,
+        "name": "JOUR 26",
+        "position": 26,
+        "type": "FITNESS"
+      },
+      {
+        "id": 27,
+        "name": "JOUR 27",
+        "position": 27,
+        "type": "FITNESS"
+      },
+      {
+        "id": 28,
+        "name": "JOUR 28",
+        "position": 28,
+        "type": "FITNESS"
+      },
+      {
+        "id": 29,
+        "name": "JOUR 29",
+        "position": 29,
+        "type": "FITNESS"
+      },
+      {
+        "id": 30,
+        "name": "JOUR 30",
+        "position": 30,
+        "type": "FITNESS"
+      },
+      {
+        "id": 31,
+        "name": "JOUR 31",
+        "position": 31,
+        "type": "FITNESS"
+      },
+      {
+        "id": 32,
+        "name": "JOUR 32",
+        "position": 32,
+        "type": "FITNESS"
+      }
+    ]
+  },
+  {
+    "secretId": 2,
+    "name": "DEBUTANT RENFORCEMENT",
+    "nameEn": "BEGINNER REINFORCEMENT",
+    "description": "Commencez dès maintenant votre transformation physique. Si vous disposez d'une paire d'haltères alors \"Débutant Renforcement\" est le programme qu'il vous faut. Vous y retrouverez des exercices au poids du corps et avec haltères pour renforcer et tonifier l'ensemble de votre corps. L'ensemble de vos muscles sera développé comme ceux de votre dos, vos cuisses, et vos bras avec des combinaisons de mouvements simples et efficaces.",
+    "descriptionEn": "Start your physical transformation now. If you have a pair of dumbbells then \"Beginner Strengthening\" is the program for you. You will find body weight and dumbbell exercises to strengthen and tone your entire body. Develop your back muscles, thighs, and arms with simple and effective combinations of movements. ",
+    "pictureUrl": "https://firebasestorage.googleapis.com/v0/b/milinus.appspot.com/o/program%2F2.png?alt=media",
+    "status": "ACTIVE",
+    "gender": "NON_BINARY",
+    "objective": "STAY_INSHAPE",
+    "runningCapacity": "CANT_RUN",
+    "difficulty": "NOOB",
+    "offer": "PREMIUM",
+    "trainings": [
+      {
+        "id": 1,
+        "name": "JOUR 1",
+        "position": 1,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 2,
+        "name": "JOUR 2",
+        "position": 2,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 3,
+        "name": "JOUR 3",
+        "position": 3,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 4,
+        "name": "JOUR 4",
+        "position": 4,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 5,
+        "name": "JOUR 5",
+        "position": 5,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 6,
+        "name": "JOUR 6",
+        "position": 6,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 7,
+        "name": "JOUR 7",
+        "position": 7,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 8,
+        "name": "JOUR 8",
+        "position": 8,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 9,
+        "name": "JOUR 9",
+        "position": 9,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 10,
+        "name": "JOUR 10",
+        "position": 10,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 11,
+        "name": "JOUR 11",
+        "position": 11,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 12,
+        "name": "JOUR 12",
+        "position": 12,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 13,
+        "name": "JOUR 13",
+        "position": 13,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 14,
+        "name": "JOUR 14",
+        "position": 14,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 15,
+        "name": "JOUR 15",
+        "position": 15,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 16,
+        "name": "JOUR 16",
+        "position": 16,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 17,
+        "name": "JOUR 17",
+        "position": 17,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 18,
+        "name": "JOUR 18",
+        "position": 18,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 19,
+        "name": "JOUR 19",
+        "position": 19,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 20,
+        "name": "JOUR 20",
+        "position": 20,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 21,
+        "name": "JOUR 21",
+        "position": 21,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 22,
+        "name": "JOUR 22",
+        "position": 22,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 23,
+        "name": "JOUR 23",
+        "position": 23,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 24,
+        "name": "JOUR 24",
+        "position": 24,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 25,
+        "name": "JOUR 25",
+        "position": 25,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 26,
+        "name": "JOUR 26",
+        "position": 26,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 27,
+        "name": "JOUR 27",
+        "position": 27,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 28,
+        "name": "JOUR 28",
+        "position": 28,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 29,
+        "name": "JOUR 29",
+        "position": 29,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 30,
+        "name": "JOUR 30",
+        "position": 30,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 31,
+        "name": "JOUR 31",
+        "position": 31,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 32,
+        "name": "JOUR 32",
+        "position": 32,
+        "type": "WEIGHT"
+      }
+    ]
+  },
+  {
+    "secretId": 3,
+    "name": "FAST PROGRAMME",
+    "nameEn": "FAST PROGRAM",
+    "description": "Qui a dit que pour avoir des résultats il fallait rester 2 heures à la salle de sport ? \"Fast programme\"  est composé de séances courtes : 10 à 20 minutes par entraînement avec des exercices de cardio et de renforcement musculaire. Vous pourrez aussi affûter vos abdos avec des séances full Abs !",
+    "descriptionEn": "Who said that to get results you have to stay at the gym for 2 hours? \"Fast program\" is composed of short sessions: 10 to 20 minutes per workout with cardio and muscle strengthening exercises. You can also sharpen your abs with full Abs sessions!",
+    "pictureUrl": "https://firebasestorage.googleapis.com/v0/b/milinus.appspot.com/o/program%2F3.png?alt=media",
+    "status": "ACTIVE",
+    "gender": "NON_BINARY",
+    "objective": "LOOSE_WEIGHT",
+    "runningCapacity": "CANT_RUN",
+    "difficulty": "NOOB",
+    "offer": "PREMIUM",
+    "trainings": [
+      {
+        "id": 1,
+        "name": "JOUR 1",
+        "position": 1,
+        "type": "FITNESS"
+      },
+      {
+        "id": 2,
+        "name": "JOUR 2",
+        "position": 2,
+        "type": "FITNESS"
+      },
+      {
+        "id": 3,
+        "name": "JOUR 3",
+        "position": 3,
+        "type": "FITNESS"
+      },
+      {
+        "id": 4,
+        "name": "JOUR 4",
+        "position": 4,
+        "type": "FITNESS"
+      },
+      {
+        "id": 5,
+        "name": "JOUR 5",
+        "position": 5,
+        "type": "FITNESS"
+      },
+      {
+        "id": 6,
+        "name": "JOUR 6",
+        "position": 6,
+        "type": "FITNESS"
+      },
+      {
+        "id": 7,
+        "name": "JOUR 7",
+        "position": 7,
+        "type": "FITNESS"
+      },
+      {
+        "id": 8,
+        "name": "JOUR 8",
+        "position": 8,
+        "type": "FITNESS"
+      },
+      {
+        "id": 9,
+        "name": "JOUR 9",
+        "position": 9,
+        "type": "FITNESS"
+      },
+      {
+        "id": 10,
+        "name": "JOUR 10",
+        "position": 10,
+        "type": "FITNESS"
+      },
+      {
+        "id": 11,
+        "name": "JOUR 11",
+        "position": 11,
+        "type": "FITNESS"
+      },
+      {
+        "id": 12,
+        "name": "JOUR 12",
+        "position": 12,
+        "type": "FITNESS"
+      },
+      {
+        "id": 13,
+        "name": "JOUR 13",
+        "position": 13,
+        "type": "FITNESS"
+      },
+      {
+        "id": 14,
+        "name": "JOUR 14",
+        "position": 14,
+        "type": "FITNESS"
+      },
+      {
+        "id": 15,
+        "name": "JOUR 15",
+        "position": 15,
+        "type": "FITNESS"
+      },
+      {
+        "id": 16,
+        "name": "JOUR 16",
+        "position": 16,
+        "type": "FITNESS"
+      },
+      {
+        "id": 17,
+        "name": "JOUR 17",
+        "position": 17,
+        "type": "FITNESS"
+      },
+      {
+        "id": 18,
+        "name": "JOUR 18",
+        "position": 18,
+        "type": "FITNESS"
+      },
+      {
+        "id": 19,
+        "name": "JOUR 19",
+        "position": 19,
+        "type": "FITNESS"
+      },
+      {
+        "id": 20,
+        "name": "JOUR 20",
+        "position": 20,
+        "type": "FITNESS"
+      },
+      {
+        "id": 21,
+        "name": "JOUR 21",
+        "position": 21,
+        "type": "FITNESS"
+      },
+      {
+        "id": 22,
+        "name": "JOUR 22",
+        "position": 22,
+        "type": "FITNESS"
+      },
+      {
+        "id": 23,
+        "name": "JOUR 23",
+        "position": 23,
+        "type": "FITNESS"
+      },
+      {
+        "id": 24,
+        "name": "JOUR 24",
+        "position": 24,
+        "type": "FITNESS"
+      }
+    ]
+  },
+  {
+    "secretId": 4,
+    "name": "FULL BODY FOCUS FESSIERS",
+    "nameEn": "FULL BODY FOCUS BUTTOCKS",
+    "description": "Vous souhaitez perdre du poids et afficher une silhouette plus harmonieuse ? Ce programme est fait pour vous. Travaillez l'ensemble de votre corps avec un focus plus important sur les cuisses et les fessiers. Enchaînez des, squat, squat jumps, bridge, fentes, dips et plein d'autres exercices faciles d'exécution et extrêmement efficaces. À vous de jouer !",
+    "descriptionEn": "Do you want to lose weight and achieve a more harmonious figure? This program is made for you. Work your entire body with a greater focus on your thighs and buttocks. Do a series of, squat, squat jumps, bridge, lunges, dips and many other exercises that are easy to perform and extremely effective. It's up to you!",
+    "pictureUrl": "https://firebasestorage.googleapis.com/v0/b/milinus.appspot.com/o/program%2F4.png?alt=media",
+    "status": "ACTIVE",
+    "gender": "FEMALE",
+    "objective": "LOOSE_WEIGHT",
+    "runningCapacity": "CANT_RUN",
+    "difficulty": "OFTEN",
+    "offer": "PREMIUM",
+    "trainings": [
+      {
+        "id": 1,
+        "name": "JOUR 1",
+        "position": 1,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 2,
+        "name": "JOUR 2",
+        "position": 2,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 3,
+        "name": "JOUR 3",
+        "position": 3,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 4,
+        "name": "JOUR 4",
+        "position": 4,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 5,
+        "name": "JOUR 5",
+        "position": 5,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 6,
+        "name": "JOUR 6",
+        "position": 6,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 7,
+        "name": "JOUR 7",
+        "position": 7,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 8,
+        "name": "JOUR 8",
+        "position": 8,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 9,
+        "name": "JOUR 9",
+        "position": 9,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 10,
+        "name": "JOUR 10",
+        "position": 10,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 11,
+        "name": "JOUR 11",
+        "position": 11,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 12,
+        "name": "JOUR 12",
+        "position": 12,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 13,
+        "name": "JOUR 13",
+        "position": 13,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 14,
+        "name": "JOUR 14",
+        "position": 14,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 15,
+        "name": "JOUR 15",
+        "position": 15,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 16,
+        "name": "JOUR 16",
+        "position": 16,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 17,
+        "name": "JOUR 17",
+        "position": 17,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 18,
+        "name": "JOUR 18",
+        "position": 18,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 19,
+        "name": "JOUR 19",
+        "position": 19,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 20,
+        "name": "JOUR 20",
+        "position": 20,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 21,
+        "name": "JOUR 21",
+        "position": 21,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 22,
+        "name": "JOUR 22",
+        "position": 22,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 23,
+        "name": "JOUR 23",
+        "position": 23,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 24,
+        "name": "JOUR 24",
+        "position": 24,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 25,
+        "name": "JOUR 25",
+        "position": 25,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 26,
+        "name": "JOUR 26",
+        "position": 26,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 27,
+        "name": "JOUR 27",
+        "position": 27,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 28,
+        "name": "JOUR 28",
+        "position": 28,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 29,
+        "name": "JOUR 29",
+        "position": 29,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 30,
+        "name": "JOUR 30",
+        "position": 30,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 31,
+        "name": "JOUR 31",
+        "position": 31,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 32,
+        "name": "JOUR 32",
+        "position": 32,
+        "type": "WEIGHT"
+      }
+    ]
+  },
+  {
+    "secretId": 5,
+    "name": "FULL BODY FOCUS FESSIERS HALTERES",
+    "nameEn": "FULL BODY FOCUS BUTTOCKS HALTER",
+    "description": "Vous souhaitez vous tonifier musculairement et afficher une silhouette plus harmonieuse ? Ce programme est fait pour vous. Travaillez l'ensemble de votre corps avec un focus plus important sur les cuisses et les fessiers. Enchaînez des, squat avec haltères, squat jumps, bridge, fentes, dips  et encore plein d'autres exercices faciles d'exécution et extrêmement efficaces. À vous de jouer !",
+    "descriptionEn": "You want to tone up your muscles and display a more harmonious silhouette? This program is made for you. Work your entire body with a greater focus on the thighs and buttocks. Do dumbbells, squat jumps, bridge, lunges, dips and many other exercises that are easy to perform and extremely effective. It's up to you!",
+    "pictureUrl": "https://firebasestorage.googleapis.com/v0/b/milinus.appspot.com/o/program%2F5.png?alt=media",
+    "status": "ACTIVE",
+    "gender": "FEMALE",
+    "objective": "STAY_INSHAPE",
+    "runningCapacity": "CANT_RUN",
+    "difficulty": "OFTEN",
+    "offer": "PREMIUM",
+    "trainings": [
+      {
+        "id": 1,
+        "name": "JOUR 1",
+        "position": 1,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 2,
+        "name": "JOUR 2",
+        "position": 2,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 3,
+        "name": "JOUR 3",
+        "position": 3,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 4,
+        "name": "JOUR 4",
+        "position": 4,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 5,
+        "name": "JOUR 5",
+        "position": 5,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 6,
+        "name": "JOUR 6",
+        "position": 6,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 7,
+        "name": "JOUR 7",
+        "position": 7,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 8,
+        "name": "JOUR 8",
+        "position": 8,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 9,
+        "name": "JOUR 9",
+        "position": 9,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 10,
+        "name": "JOUR 10",
+        "position": 10,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 11,
+        "name": "JOUR 11",
+        "position": 11,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 12,
+        "name": "JOUR 12",
+        "position": 12,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 13,
+        "name": "JOUR 13",
+        "position": 13,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 14,
+        "name": "JOUR 14",
+        "position": 14,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 15,
+        "name": "JOUR 15",
+        "position": 15,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 16,
+        "name": "JOUR 16",
+        "position": 16,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 17,
+        "name": "JOUR 17",
+        "position": 17,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 18,
+        "name": "JOUR 18",
+        "position": 18,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 19,
+        "name": "JOUR 19",
+        "position": 19,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 20,
+        "name": "JOUR 20",
+        "position": 20,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 21,
+        "name": "JOUR 21",
+        "position": 21,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 22,
+        "name": "JOUR 22",
+        "position": 22,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 23,
+        "name": "JOUR 23",
+        "position": 23,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 24,
+        "name": "JOUR 24",
+        "position": 24,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 25,
+        "name": "JOUR 25",
+        "position": 25,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 26,
+        "name": "JOUR 26",
+        "position": 26,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 27,
+        "name": "JOUR 27",
+        "position": 27,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 28,
+        "name": "JOUR 28",
+        "position": 28,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 29,
+        "name": "JOUR 29",
+        "position": 29,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 30,
+        "name": "JOUR 30",
+        "position": 30,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 31,
+        "name": "JOUR 31",
+        "position": 31,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 32,
+        "name": "JOUR 32",
+        "position": 32,
+        "type": "WEIGHT"
+      }
+    ]
+  },
+  {
+    "secretId": 6,
+    "name": "HIIT MILINUS",
+    "nameEn": "HIIT MILINUS",
+    "description": "Le programme HIIT MILINUS est le programme qu'il vous faut pour dépasser vos limites. Il combine à la fois des exercices cardio et renforcement musculaire pour bruler un maximum de graisse et de calorie. Un format de séance par \"interval training\". En 8 semaines, progressez à la vitesse Milinus. ",
+    "descriptionEn": "The HIIT MILINUS program is the program you need to go beyond your limits. It combines both cardio and strength training to burn maximum fat and calories. An \"interval training\" workout format. In 8 weeks, progress at Milinus speed. ",
+    "pictureUrl": "https://firebasestorage.googleapis.com/v0/b/milinus.appspot.com/o/program%2F6.png?alt=media",
+    "status": "ACTIVE",
+    "gender": "NON_BINARY",
+    "objective": "LOOSE_WEIGHT",
+    "runningCapacity": "CANT_RUN",
+    "difficulty": "OFTEN",
+    "offer": "FREE",
+    "trainings": [
+      {
+        "id": 1,
+        "name": "JOUR 1",
+        "position": 1,
+        "type": "FITNESS"
+      },
+      {
+        "id": 2,
+        "name": "JOUR 2",
+        "position": 2,
+        "type": "FITNESS"
+      },
+      {
+        "id": 3,
+        "name": "JOUR 3",
+        "position": 3,
+        "type": "FITNESS"
+      },
+      {
+        "id": 4,
+        "name": "JOUR 4",
+        "position": 4,
+        "type": "FITNESS"
+      },
+      {
+        "id": 5,
+        "name": "JOUR 5",
+        "position": 5,
+        "type": "FITNESS"
+      },
+      {
+        "id": 6,
+        "name": "JOUR 6",
+        "position": 6,
+        "type": "FITNESS"
+      },
+      {
+        "id": 7,
+        "name": "JOUR 7",
+        "position": 7,
+        "type": "FITNESS"
+      },
+      {
+        "id": 8,
+        "name": "JOUR 8",
+        "position": 8,
+        "type": "FITNESS"
+      },
+      {
+        "id": 9,
+        "name": "JOUR 9",
+        "position": 9,
+        "type": "FITNESS"
+      },
+      {
+        "id": 10,
+        "name": "JOUR 10",
+        "position": 10,
+        "type": "FITNESS"
+      },
+      {
+        "id": 11,
+        "name": "JOUR 11",
+        "position": 11,
+        "type": "FITNESS"
+      },
+      {
+        "id": 12,
+        "name": "JOUR 12",
+        "position": 12,
+        "type": "FITNESS"
+      },
+      {
+        "id": 13,
+        "name": "JOUR 13",
+        "position": 13,
+        "type": "FITNESS"
+      },
+      {
+        "id": 14,
+        "name": "JOUR 14",
+        "position": 14,
+        "type": "FITNESS"
+      },
+      {
+        "id": 15,
+        "name": "JOUR 15",
+        "position": 15,
+        "type": "FITNESS"
+      },
+      {
+        "id": 16,
+        "name": "JOUR 16",
+        "position": 16,
+        "type": "FITNESS"
+      },
+      {
+        "id": 17,
+        "name": "JOUR 17",
+        "position": 17,
+        "type": "FITNESS"
+      },
+      {
+        "id": 18,
+        "name": "JOUR 18",
+        "position": 18,
+        "type": "FITNESS"
+      },
+      {
+        "id": 19,
+        "name": "JOUR 19",
+        "position": 19,
+        "type": "FITNESS"
+      },
+      {
+        "id": 20,
+        "name": "JOUR 20",
+        "position": 20,
+        "type": "FITNESS"
+      },
+      {
+        "id": 21,
+        "name": "JOUR 21",
+        "position": 21,
+        "type": "FITNESS"
+      },
+      {
+        "id": 22,
+        "name": "JOUR 22",
+        "position": 22,
+        "type": "FITNESS"
+      },
+      {
+        "id": 23,
+        "name": "JOUR 23",
+        "position": 23,
+        "type": "FITNESS"
+      },
+      {
+        "id": 24,
+        "name": "JOUR 24",
+        "position": 24,
+        "type": "FITNESS"
+      },
+      {
+        "id": 25,
+        "name": "JOUR 25",
+        "position": 25,
+        "type": "FITNESS"
+      },
+      {
+        "id": 26,
+        "name": "JOUR 26",
+        "position": 26,
+        "type": "FITNESS"
+      },
+      {
+        "id": 27,
+        "name": "JOUR 27",
+        "position": 27,
+        "type": "FITNESS"
+      },
+      {
+        "id": 28,
+        "name": "JOUR 28",
+        "position": 28,
+        "type": "FITNESS"
+      }
+    ]
+  },
+  {
+    "secretId": 7,
+    "name": "MILINUS TRAINING",
+    "nameEn": "MILINUS TRAINING",
+    "description": "Entrez dans l'univers milinus pour dépasser vos limites ! Chaque séance est un défi à relever. Enchaînez des exercices au poids de corps, sauts, burpees, montée de genoux et bien d'autres pour améliorr votre mental et votre condition physique.  ",
+    "descriptionEn": "Enter the milinus universe to surpass your limits! Every session is a challenge. Link body weight exercises, jumps, burpees, knee lifts and many others to improve your mental and physical condition.  ",
+    "pictureUrl": "https://firebasestorage.googleapis.com/v0/b/milinus.appspot.com/o/program%2F7.png?alt=media",
+    "status": "ACTIVE",
+    "gender": "NON_BINARY",
+    "objective": "LOOSE_WEIGHT",
+    "runningCapacity": "CANT_RUN",
+    "difficulty": "FREQUENTLY",
+    "offer": "PREMIUM",
+    "trainings": [
+      {
+        "id": 1,
+        "name": "JOUR 1",
+        "position": 1,
+        "type": "FITNESS"
+      },
+      {
+        "id": 2,
+        "name": "JOUR 2",
+        "position": 2,
+        "type": "FITNESS"
+      },
+      {
+        "id": 3,
+        "name": "JOUR 3",
+        "position": 3,
+        "type": "FITNESS"
+      },
+      {
+        "id": 4,
+        "name": "JOUR 4",
+        "position": 4,
+        "type": "FITNESS"
+      },
+      {
+        "id": 5,
+        "name": "JOUR 5",
+        "position": 5,
+        "type": "FITNESS"
+      },
+      {
+        "id": 6,
+        "name": "JOUR 6",
+        "position": 6,
+        "type": "FITNESS"
+      },
+      {
+        "id": 7,
+        "name": "JOUR 7",
+        "position": 7,
+        "type": "FITNESS"
+      },
+      {
+        "id": 8,
+        "name": "JOUR 8",
+        "position": 8,
+        "type": "FITNESS"
+      },
+      {
+        "id": 9,
+        "name": "JOUR 9",
+        "position": 9,
+        "type": "FITNESS"
+      },
+      {
+        "id": 10,
+        "name": "JOUR 10",
+        "position": 10,
+        "type": "FITNESS"
+      },
+      {
+        "id": 11,
+        "name": "JOUR 11",
+        "position": 11,
+        "type": "FITNESS"
+      },
+      {
+        "id": 12,
+        "name": "JOUR 12",
+        "position": 12,
+        "type": "FITNESS"
+      },
+      {
+        "id": 13,
+        "name": "JOUR 13",
+        "position": 13,
+        "type": "FITNESS"
+      },
+      {
+        "id": 14,
+        "name": "JOUR 14",
+        "position": 14,
+        "type": "FITNESS"
+      },
+      {
+        "id": 15,
+        "name": "JOUR 15",
+        "position": 15,
+        "type": "FITNESS"
+      },
+      {
+        "id": 16,
+        "name": "JOUR 16",
+        "position": 16,
+        "type": "FITNESS"
+      },
+      {
+        "id": 17,
+        "name": "JOUR 17",
+        "position": 17,
+        "type": "FITNESS"
+      },
+      {
+        "id": 18,
+        "name": "JOUR 18",
+        "position": 18,
+        "type": "FITNESS"
+      },
+      {
+        "id": 19,
+        "name": "JOUR 19",
+        "position": 19,
+        "type": "FITNESS"
+      },
+      {
+        "id": 20,
+        "name": "JOUR 20",
+        "position": 20,
+        "type": "FITNESS"
+      },
+      {
+        "id": 21,
+        "name": "JOUR 21",
+        "position": 21,
+        "type": "FITNESS"
+      },
+      {
+        "id": 22,
+        "name": "JOUR 22",
+        "position": 22,
+        "type": "FITNESS"
+      },
+      {
+        "id": 23,
+        "name": "JOUR 23",
+        "position": 23,
+        "type": "FITNESS"
+      },
+      {
+        "id": 24,
+        "name": "JOUR 24",
+        "position": 24,
+        "type": "FITNESS"
+      },
+      {
+        "id": 25,
+        "name": "JOUR 25",
+        "position": 25,
+        "type": "FITNESS"
+      },
+      {
+        "id": 26,
+        "name": "JOUR 26",
+        "position": 26,
+        "type": "FITNESS"
+      },
+      {
+        "id": 27,
+        "name": "JOUR 27",
+        "position": 27,
+        "type": "FITNESS"
+      },
+      {
+        "id": 28,
+        "name": "JOUR 28",
+        "position": 28,
+        "type": "FITNESS"
+      },
+      {
+        "id": 29,
+        "name": "JOUR 29",
+        "position": 29,
+        "type": "FITNESS"
+      },
+      {
+        "id": 30,
+        "name": "JOUR 30",
+        "position": 30,
+        "type": "FITNESS"
+      },
+      {
+        "id": 31,
+        "name": "JOUR 31",
+        "position": 31,
+        "type": "FITNESS"
+      },
+      {
+        "id": 32,
+        "name": "JOUR 32",
+        "position": 32,
+        "type": "FITNESS"
+      }
+    ]
+  },
+  {
+    "secretId": 8,
+    "name": "MILINUS TRAINING HALTERES",
+    "nameEn": "MILINUS TRAINING DUMBBELL",
+    "description": "Vous avez une paire d'haltères ? Alors c'est parti pour \"MILINUS TRAINING HALTERES\". Gagnez de la masse musculaire , de la force et  de la tonicité tout en brûlant un maximum de calories. ",
+    "descriptionEn": "Do you have a pair of dumbbells? Then let's go for \"MILINUS TRAINING HALTERS\". Gain muscle mass, strength and tone while burning a maximum of calories. ",
+    "pictureUrl": "https://firebasestorage.googleapis.com/v0/b/milinus.appspot.com/o/program%2F8.png?alt=media",
+    "status": "ACTIVE",
+    "gender": "NON_BINARY",
+    "objective": "STAY_INSHAPE",
+    "runningCapacity": "CANT_RUN",
+    "difficulty": "FREQUENTLY",
+    "offer": "PREMIUM",
+    "trainings": [
+      {
+        "id": 1,
+        "name": "JOUR 1",
+        "position": 1,
+        "type": "FITNESS"
+      },
+      {
+        "id": 2,
+        "name": "JOUR 2",
+        "position": 2,
+        "type": "FITNESS"
+      },
+      {
+        "id": 3,
+        "name": "JOUR 3",
+        "position": 3,
+        "type": "FITNESS"
+      },
+      {
+        "id": 4,
+        "name": "JOUR 4",
+        "position": 4,
+        "type": "FITNESS"
+      },
+      {
+        "id": 5,
+        "name": "JOUR 5",
+        "position": 5,
+        "type": "FITNESS"
+      },
+      {
+        "id": 6,
+        "name": "JOUR 6",
+        "position": 6,
+        "type": "FITNESS"
+      },
+      {
+        "id": 7,
+        "name": "JOUR 7",
+        "position": 7,
+        "type": "FITNESS"
+      },
+      {
+        "id": 8,
+        "name": "JOUR 8",
+        "position": 8,
+        "type": "FITNESS"
+      },
+      {
+        "id": 9,
+        "name": "JOUR 9",
+        "position": 9,
+        "type": "FITNESS"
+      },
+      {
+        "id": 10,
+        "name": "JOUR 10",
+        "position": 10,
+        "type": "FITNESS"
+      },
+      {
+        "id": 11,
+        "name": "JOUR 11",
+        "position": 11,
+        "type": "FITNESS"
+      },
+      {
+        "id": 12,
+        "name": "JOUR 12",
+        "position": 12,
+        "type": "FITNESS"
+      },
+      {
+        "id": 13,
+        "name": "JOUR 13",
+        "position": 13,
+        "type": "FITNESS"
+      },
+      {
+        "id": 14,
+        "name": "JOUR 14",
+        "position": 14,
+        "type": "FITNESS"
+      },
+      {
+        "id": 15,
+        "name": "JOUR 15",
+        "position": 15,
+        "type": "FITNESS"
+      },
+      {
+        "id": 16,
+        "name": "JOUR 16",
+        "position": 16,
+        "type": "FITNESS"
+      },
+      {
+        "id": 17,
+        "name": "JOUR 17",
+        "position": 17,
+        "type": "FITNESS"
+      },
+      {
+        "id": 18,
+        "name": "JOUR 18",
+        "position": 18,
+        "type": "FITNESS"
+      },
+      {
+        "id": 19,
+        "name": "JOUR 19",
+        "position": 19,
+        "type": "FITNESS"
+      },
+      {
+        "id": 20,
+        "name": "JOUR 20",
+        "position": 20,
+        "type": "FITNESS"
+      },
+      {
+        "id": 21,
+        "name": "JOUR 21",
+        "position": 21,
+        "type": "FITNESS"
+      },
+      {
+        "id": 22,
+        "name": "JOUR 22",
+        "position": 22,
+        "type": "FITNESS"
+      },
+      {
+        "id": 23,
+        "name": "JOUR 23",
+        "position": 23,
+        "type": "FITNESS"
+      },
+      {
+        "id": 24,
+        "name": "JOUR 24",
+        "position": 24,
+        "type": "FITNESS"
+      }
+    ]
+  },
+  {
+    "secretId": 9,
+    "name": "MUSCULATION FEMME",
+    "nameEn": "WOMEN'S BODYBUILDING",
+    "description": "Mesdames, si vous souhaitez des cuisses et des fessiers fermes, des abdos en béton, alors vous etes au bon endroit ! Le programme est 100% personnalisé et vous propose des exercices en fonction de votre niveau. Laissez-vous guider par le Coach Milinus qui vous indiquera les charges à mettre sur votre barre. Ensuite, à vous de jouer ! ",
+    "descriptionEn": "Ladies, if you want firm thighs and buttocks, concrete abs, then you've come to the right place! The program is 100% personalized and offers you exercises according to your level. Let yourself be guided by Coach Milinus who will tell you the loads to put on your bar. Then, it's up to you! ",
+    "pictureUrl": "https://firebasestorage.googleapis.com/v0/b/milinus.appspot.com/o/program%2F9.png?alt=media",
+    "status": "ACTIVE",
+    "gender": "FEMALE",
+    "objective": "BUILD_UP",
+    "runningCapacity": "CANT_RUN",
+    "difficulty": "FREQUENTLY",
+    "offer": "PREMIUM",
+    "trainings": [
+      {
+        "id": 1,
+        "name": "JOUR 1",
+        "position": 1,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 2,
+        "name": "JOUR 2",
+        "position": 2,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 3,
+        "name": "JOUR 3",
+        "position": 3,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 4,
+        "name": "JOUR 4",
+        "position": 4,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 5,
+        "name": "JOUR 5",
+        "position": 5,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 6,
+        "name": "JOUR 6",
+        "position": 6,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 7,
+        "name": "JOUR 7",
+        "position": 7,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 8,
+        "name": "JOUR 8",
+        "position": 8,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 9,
+        "name": "JOUR 9",
+        "position": 9,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 10,
+        "name": "JOUR 10",
+        "position": 10,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 11,
+        "name": "JOUR 11",
+        "position": 11,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 12,
+        "name": "JOUR 12",
+        "position": 12,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 13,
+        "name": "JOUR 13",
+        "position": 13,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 14,
+        "name": "JOUR 14",
+        "position": 14,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 15,
+        "name": "JOUR 15",
+        "position": 15,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 16,
+        "name": "JOUR 16",
+        "position": 16,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 17,
+        "name": "JOUR 17",
+        "position": 17,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 18,
+        "name": "JOUR 18",
+        "position": 18,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 19,
+        "name": "JOUR 19",
+        "position": 19,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 20,
+        "name": "JOUR 20",
+        "position": 20,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 21,
+        "name": "JOUR 21",
+        "position": 21,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 22,
+        "name": "JOUR 22",
+        "position": 22,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 23,
+        "name": "JOUR 23",
+        "position": 23,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 24,
+        "name": "JOUR 24",
+        "position": 24,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 25,
+        "name": "JOUR 25",
+        "position": 25,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 26,
+        "name": "JOUR 26",
+        "position": 26,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 27,
+        "name": "JOUR 27",
+        "position": 27,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 28,
+        "name": "JOUR 28",
+        "position": 28,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 29,
+        "name": "JOUR 29",
+        "position": 29,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 30,
+        "name": "JOUR 30",
+        "position": 30,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 31,
+        "name": "JOUR 31",
+        "position": 31,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 32,
+        "name": "JOUR 32",
+        "position": 32,
+        "type": "WEIGHT"
+      }
+    ]
+  },
+  {
+    "secretId": 10,
+    "name": "MUSCULATION HOMME",
+    "nameEn": "MEN'S BODYBUILDING",
+    "description": "Messieurs,  il est temps de devenir une vraie machine en musculation ! Le programme est 100% personnalisé et vous propose des exercices en fonction de votre niveau. Laissez vous guider par le Coach Milinus qui vous indiquera les charges à mettre sur votre barre. Ensuite, à vous de jouer ! ",
+    "descriptionEn": "Gentlemen, it's time to become a real weight training machine! The program is 100% personalized and offers you exercises according to your level. Let yourself be guided by Coach Milinus who will tell you the weights to put on your bar. Then, it's up to you! ",
+    "pictureUrl": "https://firebasestorage.googleapis.com/v0/b/milinus.appspot.com/o/program%2F10.png?alt=media",
+    "status": "ACTIVE",
+    "gender": "MALE",
+    "objective": "BUILD_UP",
+    "runningCapacity": "CANT_RUN",
+    "difficulty": "FREQUENTLY",
+    "offer": "PREMIUM",
+    "trainings": [
+      {
+        "id": 1,
+        "name": "JOUR 1",
+        "position": 1,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 2,
+        "name": "JOUR 2",
+        "position": 2,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 3,
+        "name": "JOUR 3",
+        "position": 3,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 4,
+        "name": "JOUR 4",
+        "position": 4,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 5,
+        "name": "JOUR 5",
+        "position": 5,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 6,
+        "name": "JOUR 6",
+        "position": 6,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 7,
+        "name": "JOUR 7",
+        "position": 7,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 8,
+        "name": "JOUR 8",
+        "position": 8,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 9,
+        "name": "JOUR 9",
+        "position": 9,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 10,
+        "name": "JOUR 10",
+        "position": 10,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 11,
+        "name": "JOUR 11",
+        "position": 11,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 12,
+        "name": "JOUR 12",
+        "position": 12,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 13,
+        "name": "JOUR 13",
+        "position": 13,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 14,
+        "name": "JOUR 14",
+        "position": 14,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 15,
+        "name": "JOUR 15",
+        "position": 15,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 16,
+        "name": "JOUR 16",
+        "position": 16,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 17,
+        "name": "JOUR 17",
+        "position": 17,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 18,
+        "name": "JOUR 18",
+        "position": 18,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 19,
+        "name": "JOUR 19",
+        "position": 19,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 20,
+        "name": "JOUR 20",
+        "position": 20,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 21,
+        "name": "JOUR 21",
+        "position": 21,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 22,
+        "name": "JOUR 22",
+        "position": 22,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 23,
+        "name": "JOUR 23",
+        "position": 23,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 24,
+        "name": "JOUR 24",
+        "position": 24,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 25,
+        "name": "JOUR 25",
+        "position": 25,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 26,
+        "name": "JOUR 26",
+        "position": 26,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 27,
+        "name": "JOUR 27",
+        "position": 27,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 28,
+        "name": "JOUR 28",
+        "position": 28,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 29,
+        "name": "JOUR 29",
+        "position": 29,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 30,
+        "name": "JOUR 30",
+        "position": 30,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 31,
+        "name": "JOUR 31",
+        "position": 31,
+        "type": "WEIGHT"
+      },
+      {
+        "id": 32,
+        "name": "JOUR 32",
+        "position": 32,
+        "type": "WEIGHT"
+      }
+    ]
+  },
+  {
+    "secretId": 11,
+    "name": "RUNNING ENDURANCE",
+    "nameEn": "RUNNING ENDURANCE",
+    "description": "Gagnez en endurance avec les séances de running Milinus. Saviez-vous qu'avoir une bonne condition musculaire permet d'améliorer vos performances en course ? Le programme vous propose des séance de renforcement musculaire variées et adaptées à la course à pied. Brulez un maximum de graisse tout en maintenant votre tonicité",
+    "descriptionEn": "Gain in endurance with Milinus running sessions. Did you know that having a good muscular condition allows you to improve your running performance? The program offers you a variety of muscle strengthening sessions adapted to running. Burn as much fat as possible while maintaining your tonicity",
+    "pictureUrl": "https://firebasestorage.googleapis.com/v0/b/milinus.appspot.com/o/program%2F11.png?alt=media",
+    "status": "ACTIVE",
+    "gender": "NON_BINARY",
+    "objective": "LOOSE_WEIGHT",
+    "runningCapacity": "RUN_15",
+    "difficulty": "NOOB",
+    "offer": "PREMIUM",
+    "trainings": [
+      {
+        "id": 1,
+        "name": "JOUR 1",
+        "position": 1,
+        "type": "RUNNING"
+      },
+      {
+        "id": 2,
+        "name": "JOUR 2",
+        "position": 2,
+        "type": "RUNNING"
+      },
+      {
+        "id": 3,
+        "name": "JOUR 3",
+        "position": 3,
+        "type": "RUNNING"
+      },
+      {
+        "id": 4,
+        "name": "JOUR 4",
+        "position": 4,
+        "type": "RUNNING"
+      },
+      {
+        "id": 5,
+        "name": "JOUR 5",
+        "position": 5,
+        "type": "RUNNING"
+      },
+      {
+        "id": 6,
+        "name": "JOUR 6",
+        "position": 6,
+        "type": "RUNNING"
+      },
+      {
+        "id": 7,
+        "name": "JOUR 7",
+        "position": 7,
+        "type": "RUNNING"
+      },
+      {
+        "id": 8,
+        "name": "JOUR 8",
+        "position": 8,
+        "type": "RUNNING"
+      },
+      {
+        "id": 9,
+        "name": "JOUR 9",
+        "position": 9,
+        "type": "RUNNING"
+      },
+      {
+        "id": 10,
+        "name": "JOUR 10",
+        "position": 10,
+        "type": "RUNNING"
+      },
+      {
+        "id": 11,
+        "name": "JOUR 11",
+        "position": 11,
+        "type": "RUNNING"
+      },
+      {
+        "id": 12,
+        "name": "JOUR 12",
+        "position": 12,
+        "type": "RUNNING"
+      },
+      {
+        "id": 13,
+        "name": "JOUR 13",
+        "position": 13,
+        "type": "RUNNING"
+      },
+      {
+        "id": 14,
+        "name": "JOUR 14",
+        "position": 14,
+        "type": "RUNNING"
+      },
+      {
+        "id": 15,
+        "name": "JOUR 15",
+        "position": 15,
+        "type": "RUNNING"
+      },
+      {
+        "id": 16,
+        "name": "JOUR 16",
+        "position": 16,
+        "type": "RUNNING"
+      },
+      {
+        "id": 17,
+        "name": "JOUR 17",
+        "position": 17,
+        "type": "RUNNING"
+      },
+      {
+        "id": 18,
+        "name": "JOUR 18",
+        "position": 18,
+        "type": "RUNNING"
+      },
+      {
+        "id": 19,
+        "name": "JOUR 19",
+        "position": 19,
+        "type": "RUNNING"
+      },
+      {
+        "id": 20,
+        "name": "JOUR 20",
+        "position": 20,
+        "type": "RUNNING"
+      },
+      {
+        "id": 21,
+        "name": "JOUR 21",
+        "position": 21,
+        "type": "RUNNING"
+      },
+      {
+        "id": 22,
+        "name": "JOUR 22",
+        "position": 22,
+        "type": "RUNNING"
+      },
+      {
+        "id": 23,
+        "name": "JOUR 23",
+        "position": 23,
+        "type": "RUNNING"
+      },
+      {
+        "id": 24,
+        "name": "JOUR 24",
+        "position": 24,
+        "type": "RUNNING"
+      },
+      {
+        "id": 25,
+        "name": "JOUR 25",
+        "position": 25,
+        "type": "RUNNING"
+      },
+      {
+        "id": 26,
+        "name": "JOUR 26",
+        "position": 26,
+        "type": "RUNNING"
+      },
+      {
+        "id": 27,
+        "name": "JOUR 27",
+        "position": 27,
+        "type": "RUNNING"
+      },
+      {
+        "id": 28,
+        "name": "JOUR 28",
+        "position": 28,
+        "type": "RUNNING"
+      },
+      {
+        "id": 29,
+        "name": "JOUR 29",
+        "position": 29,
+        "type": "RUNNING"
+      },
+      {
+        "id": 30,
+        "name": "JOUR 30",
+        "position": 30,
+        "type": "RUNNING"
+      },
+      {
+        "id": 31,
+        "name": "JOUR 31",
+        "position": 31,
+        "type": "RUNNING"
+      },
+      {
+        "id": 32,
+        "name": "JOUR 32",
+        "position": 32,
+        "type": "RUNNING"
+      },
+      {
+        "id": 33,
+        "name": "JOUR 33",
+        "position": 33,
+        "type": "RUNNING"
+      },
+      {
+        "id": 34,
+        "name": "JOUR 34",
+        "position": 34,
+        "type": "RUNNING"
+      },
+      {
+        "id": 35,
+        "name": "JOUR 35",
+        "position": 35,
+        "type": "RUNNING"
+      },
+      {
+        "id": 36,
+        "name": "JOUR 36",
+        "position": 36,
+        "type": "RUNNING"
+      },
+      {
+        "id": 37,
+        "name": "JOUR 37",
+        "position": 37,
+        "type": "RUNNING"
+      },
+      {
+        "id": 38,
+        "name": "JOUR 38",
+        "position": 38,
+        "type": "RUNNING"
+      },
+      {
+        "id": 39,
+        "name": "JOUR 39",
+        "position": 39,
+        "type": "RUNNING"
+      },
+      {
+        "id": 40,
+        "name": "JOUR 40",
+        "position": 40,
+        "type": "RUNNING"
+      },
+      {
+        "id": 41,
+        "name": "JOUR 41",
+        "position": 41,
+        "type": "RUNNING"
+      },
+      {
+        "id": 42,
+        "name": "JOUR 42",
+        "position": 42,
+        "type": "RUNNING"
+      },
+      {
+        "id": 43,
+        "name": "JOUR 43",
+        "position": 43,
+        "type": "RUNNING"
+      },
+      {
+        "id": 44,
+        "name": "JOUR 44",
+        "position": 44,
+        "type": "RUNNING"
+      },
+      {
+        "id": 45,
+        "name": "JOUR 45",
+        "position": 45,
+        "type": "RUNNING"
+      },
+      {
+        "id": 46,
+        "name": "JOUR 46",
+        "position": 46,
+        "type": "RUNNING"
+      },
+      {
+        "id": 47,
+        "name": "JOUR 47",
+        "position": 47,
+        "type": "RUNNING"
+      },
+      {
+        "id": 48,
+        "name": "JOUR 48",
+        "position": 48,
+        "type": "RUNNING"
+      }
+    ]
+  },
+  {
+    "secretId": 12,
+    "name": "RUNNING PLUS",
+    "nameEn": "RUNNING +",
+    "description": "Grâce aux séances de renforcement musculaire couplées avec des séances de running en mode fractionné, vous allez faire fondre votre graisse en un temps record. Au fur et à mesure du programme vous renforcerez votre résistance. Alors prêt à obtenir un corps d'athlète ?",
+    "descriptionEn": "Thanks to the muscle strengthening sessions coupled with running sessions in split mode, you will melt your fat in record time. As the program progresses you will strengthen your resistance. So ready to get an athletic body?",
+    "pictureUrl": "https://firebasestorage.googleapis.com/v0/b/milinus.appspot.com/o/program%2F12.png?alt=media",
+    "status": "ACTIVE",
+    "gender": "NON_BINARY",
+    "objective": "LOOSE_WEIGHT",
+    "runningCapacity": "RUN_15",
+    "difficulty": "OFTEN",
+    "offer": "PREMIUM",
+    "trainings": [
+      {
+        "id": 1,
+        "name": "JOUR 1",
+        "position": 1,
+        "type": "RUNNING"
+      },
+      {
+        "id": 2,
+        "name": "JOUR 2",
+        "position": 2,
+        "type": "RUNNING"
+      },
+      {
+        "id": 3,
+        "name": "JOUR 3",
+        "position": 3,
+        "type": "RUNNING"
+      },
+      {
+        "id": 4,
+        "name": "JOUR 4",
+        "position": 4,
+        "type": "RUNNING"
+      },
+      {
+        "id": 5,
+        "name": "JOUR 5",
+        "position": 5,
+        "type": "RUNNING"
+      },
+      {
+        "id": 6,
+        "name": "JOUR 6",
+        "position": 6,
+        "type": "RUNNING"
+      },
+      {
+        "id": 7,
+        "name": "JOUR 7",
+        "position": 7,
+        "type": "RUNNING"
+      },
+      {
+        "id": 8,
+        "name": "JOUR 8",
+        "position": 8,
+        "type": "RUNNING"
+      },
+      {
+        "id": 9,
+        "name": "JOUR 9",
+        "position": 9,
+        "type": "RUNNING"
+      },
+      {
+        "id": 10,
+        "name": "JOUR 10",
+        "position": 10,
+        "type": "RUNNING"
+      },
+      {
+        "id": 11,
+        "name": "JOUR 11",
+        "position": 11,
+        "type": "RUNNING"
+      },
+      {
+        "id": 12,
+        "name": "JOUR 12",
+        "position": 12,
+        "type": "RUNNING"
+      },
+      {
+        "id": 13,
+        "name": "JOUR 13",
+        "position": 13,
+        "type": "RUNNING"
+      },
+      {
+        "id": 14,
+        "name": "JOUR 14",
+        "position": 14,
+        "type": "RUNNING"
+      },
+      {
+        "id": 15,
+        "name": "JOUR 15",
+        "position": 15,
+        "type": "RUNNING"
+      },
+      {
+        "id": 16,
+        "name": "JOUR 16",
+        "position": 16,
+        "type": "RUNNING"
+      },
+      {
+        "id": 17,
+        "name": "JOUR 17",
+        "position": 17,
+        "type": "RUNNING"
+      },
+      {
+        "id": 18,
+        "name": "JOUR 18",
+        "position": 18,
+        "type": "RUNNING"
+      },
+      {
+        "id": 19,
+        "name": "JOUR 19",
+        "position": 19,
+        "type": "RUNNING"
+      },
+      {
+        "id": 20,
+        "name": "JOUR 20",
+        "position": 20,
+        "type": "RUNNING"
+      },
+      {
+        "id": 21,
+        "name": "JOUR 21",
+        "position": 21,
+        "type": "RUNNING"
+      },
+      {
+        "id": 22,
+        "name": "JOUR 22",
+        "position": 22,
+        "type": "RUNNING"
+      },
+      {
+        "id": 23,
+        "name": "JOUR 23",
+        "position": 23,
+        "type": "RUNNING"
+      },
+      {
+        "id": 24,
+        "name": "JOUR 24",
+        "position": 24,
+        "type": "RUNNING"
+      },
+      {
+        "id": 25,
+        "name": "JOUR 25",
+        "position": 25,
+        "type": "RUNNING"
+      },
+      {
+        "id": 26,
+        "name": "JOUR 26",
+        "position": 26,
+        "type": "RUNNING"
+      },
+      {
+        "id": 27,
+        "name": "JOUR 27",
+        "position": 27,
+        "type": "RUNNING"
+      },
+      {
+        "id": 28,
+        "name": "JOUR 28",
+        "position": 28,
+        "type": "RUNNING"
+      },
+      {
+        "id": 29,
+        "name": "JOUR 29",
+        "position": 29,
+        "type": "RUNNING"
+      },
+      {
+        "id": 30,
+        "name": "JOUR 30",
+        "position": 30,
+        "type": "RUNNING"
+      },
+      {
+        "id": 31,
+        "name": "JOUR 31",
+        "position": 31,
+        "type": "RUNNING"
+      },
+      {
+        "id": 32,
+        "name": "JOUR 32",
+        "position": 32,
+        "type": "RUNNING"
+      },
+      {
+        "id": 33,
+        "name": "JOUR 33",
+        "position": 33,
+        "type": "RUNNING"
+      },
+      {
+        "id": 34,
+        "name": "JOUR 34",
+        "position": 34,
+        "type": "RUNNING"
+      },
+      {
+        "id": 35,
+        "name": "JOUR 35",
+        "position": 35,
+        "type": "RUNNING"
+      },
+      {
+        "id": 36,
+        "name": "JOUR 36",
+        "position": 36,
+        "type": "RUNNING"
+      },
+      {
+        "id": 37,
+        "name": "JOUR 37",
+        "position": 37,
+        "type": "RUNNING"
+      },
+      {
+        "id": 38,
+        "name": "JOUR 38",
+        "position": 38,
+        "type": "RUNNING"
+      },
+      {
+        "id": 39,
+        "name": "JOUR 39",
+        "position": 39,
+        "type": "RUNNING"
+      },
+      {
+        "id": 40,
+        "name": "JOUR 40",
+        "position": 40,
+        "type": "RUNNING"
+      },
+      {
+        "id": 41,
+        "name": "JOUR 41",
+        "position": 41,
+        "type": "RUNNING"
+      },
+      {
+        "id": 42,
+        "name": "JOUR 42",
+        "position": 42,
+        "type": "RUNNING"
+      },
+      {
+        "id": 43,
+        "name": "JOUR 43",
+        "position": 43,
+        "type": "RUNNING"
+      },
+      {
+        "id": 44,
+        "name": "JOUR 44",
+        "position": 44,
+        "type": "RUNNING"
+      },
+      {
+        "id": 45,
+        "name": "JOUR 45",
+        "position": 45,
+        "type": "RUNNING"
+      },
+      {
+        "id": 46,
+        "name": "JOUR 46",
+        "position": 46,
+        "type": "RUNNING"
+      },
+      {
+        "id": 47,
+        "name": "JOUR 47",
+        "position": 47,
+        "type": "RUNNING"
+      },
+      {
+        "id": 48,
+        "name": "JOUR 48",
+        "position": 48,
+        "type": "RUNNING"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "MUSCLUP - Le voyage commence…",
+    "description": "Première planète du système, tous les rêves y sont possibles. C’est le début d’une nouvelle vie mais le voyage ne fait que commencer…",
+    "nameEn": "MUSCLUP - The journey begins…",
+    "descriptionEn": "First planet of the system, all dreams are possible there. It is the beginning of a new life but the journey has only just started…"
+  },
+  {
+    "name": "IPTRUST - On prend de la vitesse !",
+    "description": "L’oxygène y est bon pour ses habitants, c’est une planète accueillante, l’adaptation s’y fait assez facilement.",
+    "nameEn": "IPTRUST - We're picking up speed !",
+    "descriptionEn": "Oxygen is good for its inhabitants, it's a welcoming planet, adaptation is quite easy"
+  },
+  {
+    "name": "LUNEOS - Le changement a du bon !",
+    "description": "Vous avez l’air de vous habituer au voyage : votre corps et votre mental commence à se faire aux dures conditions d’une telle aventure. Luneos est déjà visible par le hublot mais, malgré sa beauté légendaire, nous devons continuer notre route.",
+    "nameEn": "LUNEOS - Change is good !",
+    "descriptionEn": "You seem to be getting used to the journey: your body and mind are beginning to adjust to the harsh conditions of such an adventure. Luneos is already visible through the porthole but, despite its legendary beauty, we must continue on our way."
+  },
+  {
+    "name": "IMRA - Escale, nous sommes à mi-chemin",
+    "description": "Imra est une planète habitée, pleine de vie et de satisfaction ! Félicitations d’être arrivé jusqu’ici, on fait une petite pause collation et on repart !",
+    "nameEn": "IMRA - Stopover, we are halfway there",
+    "descriptionEn": "Imra is an inhabited planet, full of life and satisfaction ! Congratulations to have arrived so far, let's have a little snack break and go back!"
+  },
+  {
+    "name": "NUMEA - On reprend la route ! ",
+    "description": "Numéa est une planète aride, elle met à mal la motivation de quiconque se trouve sur son sol et c’est pourquoi nous ne nous y arrêterons pas, nous devons continuer et ne pas dévier du chemin.",
+    "nameEn": "NUMEA - Let's hit the road again!",
+    "descriptionEn": "Numéa is an arid planet, it damages the motivation of whoever is on its soil and that is why we will not stop there, we must continue and not deviate from the path."
+  },
+  {
+    "name": "URUS – Convoi exceptionnel !",
+    "description": "Les Urussiens sont un peuple de braves, ils ne laissent habituellement pas passer n’importe qui… Mais on vient de recevoir un message nous disant que, pour vous, ils sont prêts à faire une exception.",
+    "nameEn": "URUS – Exceptional convoy !",
+    "descriptionEn": "The Urussians are a brave people, they usually don't let anyone through... But we just received a message telling us that, for you, they are ready to make an exception"
+  },
+  {
+    "name": "SAIDA - Dernière étape avant destination ! ",
+    "description": "Regardez ! Voici la 7 ème planète du système ! On dit que l’atmosphère de Saida pousse ses habitants à être toujours meilleurs que la veille ! Vous le ressentez aussi ?",
+    "nameEn": "SAIDA - Last step before destination ! ",
+    "descriptionEn": "Look ! Here is the 7th planet of the system! It is said that the atmosphere of Saida pushes its inhabitants to be always better than the day before ! Do you feel it too ?"
+  },
+  {
+    "name": "MILINUS - Fin du voyage.",
+    "description": "Rares sont les humains qui ont eu l’opportunité de voir Milinus de leurs propres yeux. Le voyage fût long et parsemé d’embûches mais vous êtes arrivé à destination ! Seriez-vous un extra-terrestre ?",
+    "nameEn": "MILINUS - End of the trip",
+    "descriptionEn": "Few humans have had the opportunity to see Milinus with their own eyes. The journey was long and full of pitfalls, but you have arrived at your destination! Are you an alien ?"
+  }
+]
